@@ -1,0 +1,2 @@
+# DROWSIESS-DETECTION
+The objective is to overcome the problem related to the accidents related to drivers experiencing fatigue leads to a need arises to design a system that keeps the driver focused on the road.  Therefore this system involves features to avoid such accidents by keeping the whole focus and concentration on accurately monitoring the open and closed state of the driver’s eye in real time.  To detect drowsiness many techniques like eye retina detection, facial feature recognition has been used.
